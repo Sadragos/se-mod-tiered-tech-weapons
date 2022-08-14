@@ -2,19 +2,19 @@
 <Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ResearchBlocks>
     <ResearchBlock xsi:type="ResearchBlock">
-      <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="LargeGatlingTurret2x" />
+      <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="x2" />
       <UnlockedByGroups>
         <GroupSubtype>4</GroupSubtype>
       </UnlockedByGroups>
     </ResearchBlock>
     <ResearchBlock xsi:type="ResearchBlock">
-      <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="LargeGatlingTurret4x" />
+      <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="x4" />
       <UnlockedByGroups>
         <GroupSubtype>4</GroupSubtype>
       </UnlockedByGroups>
     </ResearchBlock>
     <ResearchBlock xsi:type="ResearchBlock">
-      <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="LargeGatlingTurret8x" />
+      <Id Type="MyObjectBuilder_LargeGatlingTurret" Subtype="x8" />
       <UnlockedByGroups>
         <GroupSubtype>4</GroupSubtype>
       </UnlockedByGroups>
@@ -40,19 +40,19 @@
     </ResearchBlock>
 
     <ResearchBlock xsi:type="ResearchBlock">
-      <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="LargeMissileTurret2x" />
+      <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="2x" />
       <UnlockedByGroups>
         <GroupSubtype>4</GroupSubtype>
       </UnlockedByGroups>
     </ResearchBlock>
     <ResearchBlock xsi:type="ResearchBlock">
-      <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="LargeMissileTurret4x" />
+      <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="4x" />
       <UnlockedByGroups>
         <GroupSubtype>4</GroupSubtype>
       </UnlockedByGroups>
     </ResearchBlock>
     <ResearchBlock xsi:type="ResearchBlock">
-      <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="LargeMissileTurret8x" />
+      <Id Type="MyObjectBuilder_LargeMissileTurret" Subtype="8x" />
       <UnlockedByGroups>
         <GroupSubtype>4</GroupSubtype>
       </UnlockedByGroups>
@@ -98,19 +98,19 @@
     </ResearchBlock>
 
     <ResearchBlock xsi:type="ResearchBlock">
-      <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="SmallMissileLauncherSmall2x" />
+      <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="2x" />
       <UnlockedByGroups>
         <GroupSubtype>16</GroupSubtype>
       </UnlockedByGroups>
     </ResearchBlock>
     <ResearchBlock xsi:type="ResearchBlock">
-      <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="SmallMissileLauncherSmall4x" />
+      <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="4x" />
       <UnlockedByGroups>
         <GroupSubtype>16</GroupSubtype>
       </UnlockedByGroups>
     </ResearchBlock>
     <ResearchBlock xsi:type="ResearchBlock">
-      <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="SmallMissileLauncherSmall8x" />
+      <Id Type="MyObjectBuilder_SmallMissileLauncher" Subtype="8x" />
       <UnlockedByGroups>
         <GroupSubtype>16</GroupSubtype>
       </UnlockedByGroups>
@@ -155,19 +155,19 @@
     </ResearchBlock>
 
     <ResearchBlock xsi:type="ResearchBlock">
-      <Id Type="MyObjectBuilder_SmallGatlingGun" Subtype="SmallGatlingGun2x" />
+      <Id Type="MyObjectBuilder_SmallGatlingGun" Subtype="2x" />
       <UnlockedByGroups>
         <GroupSubtype>16</GroupSubtype>
       </UnlockedByGroups>
     </ResearchBlock>
     <ResearchBlock xsi:type="ResearchBlock">
-      <Id Type="MyObjectBuilder_SmallGatlingGun" Subtype="SmallGatlingGun4x" />
+      <Id Type="MyObjectBuilder_SmallGatlingGun" Subtype="4x" />
       <UnlockedByGroups>
         <GroupSubtype>16</GroupSubtype>
       </UnlockedByGroups>
     </ResearchBlock>
     <ResearchBlock xsi:type="ResearchBlock">
-      <Id Type="MyObjectBuilder_SmallGatlingGun" Subtype="SmallGatlingGun8x" />
+      <Id Type="MyObjectBuilder_SmallGatlingGun" Subtype="8x" />
       <UnlockedByGroups>
         <GroupSubtype>16</GroupSubtype>
       </UnlockedByGroups>

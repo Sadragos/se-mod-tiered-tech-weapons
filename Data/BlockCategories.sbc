@@ -13,25 +13,41 @@
       <IsBlockCategory>false</IsBlockCategory>
       <IsToolCategory>true</IsToolCategory>
       <ItemIds>
-        <string>SmallMissileLauncher/LargeMissileLauncher</string>
-        <string>SmallGatlingGun/(null)</string>
-        <string>SmallMissileLauncher/(null)</string>
-        <string>SmallMissileLauncherReload/SmallRocketLauncherReload</string>
+		  <string>SmallMissileLauncher/LargeMissileLauncher</string>
+		  <string>SmallGatlingGun/(null)</string>
+		  <string>SmallGatlingGun/SmallGatlingGunWarfare2</string>
+		  <string>SmallGatlingGun/SmallBlockAutocannon</string>
+		  <string>SmallMissileLauncher/(null)</string>
+		  <string>SmallMissileLauncherReload/SmallRocketLauncherReload</string>
+		  <string>SmallMissileLauncher/SmallMissileLauncherWarfare2</string>
+		  <string>SmallMissileLauncherReload/LargeRailgun</string>
+		  <string>SmallMissileLauncherReload/SmallRailgun</string>
+		  <string>SmallMissileLauncherReload/SmallBlockMediumCalibreGun</string>
+		  <string>SmallMissileLauncher/LargeBlockLargeCalibreGun</string>
 
-        <string>SmallMissileLauncher/LargeMissileLauncher2x</string>
-        <string>SmallGatlingGun/SmallGatlingGun2x</string>
-        <string>SmallMissileLauncher/SmallMissileLauncherSmall2x</string>
-        <string>SmallMissileLauncherReload/SmallRocketLauncherReload2x</string>
+		  <string>SmallMissileLauncher/LargeMissileLauncher2x</string>
+		  <string>SmallGatlingGun/2x</string>
+		  <string>SmallGatlingGun/SmallBlockAutocannon2x</string>
+		  <string>SmallMissileLauncher/2x</string>
+		  <string>SmallMissileLauncherReload/SmallRocketLauncherReload2x</string>
+		  <string>SmallMissileLauncherReload/SmallBlockMediumCalibreGun2x</string>
+		  <string>SmallMissileLauncher/LargeBlockLargeCalibreGun2x</string>
 
-        <string>SmallMissileLauncher/LargeMissileLauncher4x</string>
-        <string>SmallGatlingGun/SmallGatlingGun4x</string>
-        <string>SmallMissileLauncher/SmallMissileLauncherSmall4x</string>
-        <string>SmallMissileLauncherReload/SmallRocketLauncherReload4x</string>
+		  <string>SmallMissileLauncher/LargeMissileLauncher4x</string>
+		  <string>SmallGatlingGun/4x</string>
+		  <string>SmallGatlingGun/SmallBlockAutocannon4x</string>
+		  <string>SmallMissileLauncher/4x</string>
+		  <string>SmallMissileLauncherReload/SmallRocketLauncherReload4x</string>
+		  <string>SmallMissileLauncherReload/SmallBlockMediumCalibreGun4x</string>
+		  <string>SmallMissileLauncher/LargeBlockLargeCalibreGun4x</string>
 
-        <string>SmallMissileLauncher/LargeMissileLauncher8x</string>
-        <string>SmallGatlingGun/SmallGatlingGun8x</string>
-        <string>SmallMissileLauncher/SmallMissileLauncherSmall8x</string>
-        <string>SmallMissileLauncherReload/SmallRocketLauncherReload8x</string>
+		  <string>SmallMissileLauncher/LargeMissileLauncher8x</string>
+		  <string>SmallGatlingGun/8x</string>
+		  <string>SmallGatlingGun/SmallBlockAutocannon8x</string>
+		  <string>SmallMissileLauncher/8x</string>
+		  <string>SmallMissileLauncherReload/SmallRocketLauncherReload8x</string>
+		  <string>SmallMissileLauncherReload/SmallBlockMediumCalibreGun8x</string>
+		  <string>SmallMissileLauncher/LargeBlockLargeCalibreGun8x</string>
       </ItemIds>
     </Category>
   </CategoryClasses>
